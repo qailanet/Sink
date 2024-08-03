@@ -15,15 +15,15 @@ const showMenu = ref(false)
         <div class="flex items-center justify-start w-1/4 h-full pr-4">
           <a
             href="/"
-            title="Sink"
+            title="MilikSaya!"
             class="flex items-center py-4 space-x-2 text-xl font-black text-gray-900 dark:text-gray-100 md:py-0"
           >
             <span
               class="flex items-center justify-center w-8 h-8 rounded-full"
             >
               <img
-                src="/sink.png"
-                alt="Sink"
+                src="/whitelabel.png"
+                alt="#"
                 class="w-full h-full rounded-full"
               >
             </span>
@@ -41,15 +41,15 @@ const showMenu = ref(false)
           >
             <a
               href="/"
-              title="Sink"
+              title="MilikSaya!"
               class="inline-flex items-center w-auto h-16 px-4 text-xl font-black leading-none text-gray-900 dark:text-gray-100 md:hidden"
             >
               <span
                 class="flex items-center justify-center w-8 h-8 text-white bg-gray-900 rounded-full"
               >
                 <img
-                  src="/sink.png"
-                  alt="Sink"
+                  src="/whitelabel.png"
+                  alt="#"
                   class="w-full h-full rounded-full"
                 >
               </span>
