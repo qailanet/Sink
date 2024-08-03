@@ -22,12 +22,12 @@ const showMenu = ref(false)
               class="flex items-center justify-center w-8 h-8 rounded-full"
             >
               <img
-                src="/logo.svg"
+                src="/sink.png"
                 alt="Sink"
                 class="w-full h-full rounded-full"
               >
             </span>
-            <span class="mx-2">.</span>
+            <span class="mx-2">Milik Saya!</span>
           </a>
         </div>
 
