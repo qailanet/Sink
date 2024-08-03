@@ -23,7 +23,7 @@ const showMenu = ref(false)
             >
               <img
                 src="/whitelabel.png"
-                alt="#"
+                alt="miliksaya"
                 class="w-full h-full rounded-full"
               >
             </span>
