@@ -49,7 +49,7 @@ const showMenu = ref(false)
               >
                 <img
                   src="/whitelabel.png"
-                  alt="#"
+                  alt="Milik saya!"
                   class="w-full h-full rounded-full"
                 >
               </span>
